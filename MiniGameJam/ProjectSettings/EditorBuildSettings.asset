@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/lockpicking/prototypes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2769ea82d4263c84cbd86be702825a6c
+  - enabled: 1
+    path: Assets/Scenes/Scene1_wakeUp.unity
+    guid: ccc02169febea6543b0cde208103c0f1
+  - enabled: 1
+    path: Assets/Scenes/lockpicking/scene1_lp.unity
+    guid: 8fbdb37f1034ced4aba5242a42e6dc30
   m_configObjects: {}
